@@ -1,0 +1,3 @@
+rootProject.name='SimpleLauncher'
+include ':app'
+include ':SampleLauncher'
